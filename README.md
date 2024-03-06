@@ -5,7 +5,7 @@
 
 - Run in your terminal `python --version`
 
-#### If you do not have the latest version of python installed on your machine from the check, then visit this link to download python on your machine: `https://www.python.org/downloads/`
+#### If you do not have the latest version of python installed on your machine from the check, then visit this link to download python on your machine: https://www.python.org/downloads/
 
 
 
