@@ -1,6 +1,6 @@
 # Node Object, represents a position in the matrix array
 class Node:
-    def __init__(self, x, y, parent=None):
+    def __init__(self, x, y, parent = None):
         self.x = x
         self.y = y
         self.parent = parent
