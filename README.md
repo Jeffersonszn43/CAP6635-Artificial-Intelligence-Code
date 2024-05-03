@@ -1,5 +1,5 @@
 ## Artificial Intelligence Projects
-#### Here is a respository of my code created from the CAP6635 Artificial Intelligence Course from FAU. I created separate files for different assignments that holds the source code that I created within that assignment. The programming language that was used in this course was python. 
+#### Here is a respository of my code created from the CAP6635 Artificial Intelligence Course from FAU. I created a Homework 1 folder that contains the source code that I created for that assignment. The programming language that was used in this course was python. 
 
 #### You need to have at least python 3.12.0 installed to be able to run the code from my assignments. To check to make sure the latest version of python is installed:
 
